@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @meetMaleehk
-- 👀 I’m interested in gaming,exploring and solvin problems
+- 👀 I’m interested in gaming,exploring and solving problems
 - 🌱 I’m currently learning frontends and backends
 - 💞️ I’m looking to collaborate on anything possible to solve problems
 - 📫 How to reach me {gmail:maleehkvictor@gmail.com}
